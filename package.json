@@ -34,14 +34,14 @@
   "dependencies": {
     "debug": "2.2.0",
     "mongodb-prebuilt": "https://github.com/ralflizard/mongodb-prebuilt",
-    "portfinder": "^1.0.3",
-    "rimraf": "^2.5.1",
-	"q": "^1.4.1"
+    "portfinder": "1.0.3",
+    "rimraf": "2.5.1",
+	"q": "1.4.1"
   },
   "devDependencies": {
-    "chai": "~2.2.0",
-    "mocha": "~2.2.4",
-    "mongoose": "*"
+    "chai": "2.2.0",
+    "mocha": "2.2.4",
+    "mongoose": "^4.6.4"
   },
   "bugs": {
     "url": "https://github.com/mccormicka/Mockgoose/issues"
